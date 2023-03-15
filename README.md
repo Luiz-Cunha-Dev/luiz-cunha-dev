@@ -7,7 +7,7 @@
 
 ## Sobre Mim :wave:
 
-Olá, tenho 23 anos, sou técnico em mecatrônica formado pela escola técnica da UNICAMP e desenvolvedor web full stack. No momento curso Engenharia de Transporte na UNICAMP e meu objetivo atual é conseguir minha primeira oportunidade de trabalho como desenvolvedor.
+Olá, tenho 23 anos, sou técnico em mecatrônica formado pela escola técnica da UNICAMP e desenvolvedor web full stack. No momento curso Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP) e meu objetivo atual é conseguir minha primeira oportunidade de trabalho como desenvolvedor.
 
 Eu me tornei desenvolvedor web, após concluir o Curso Técnico Integrado da Driven Education com +1200 horas e +30 projetos práticos com as principais tecnologias Front-end e Back-end do mercado: HTML5, CSS3, Javascript, ReactJS, NodeJS, ExpressJS. PostgreSQL, testes automatizados com Jest e projetos em grupo utilizando Metodologias Ágeis (Scrum), Git, Trello, Slack, Zoom, Pair programming e Code Review.
 
