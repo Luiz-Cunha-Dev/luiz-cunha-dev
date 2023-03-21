@@ -45,5 +45,5 @@ Atualmente meu foco é me especializar cada vez mais em desenvolvimento Web, por
 
 ## Estatísticas :rocket:
 
-<img align="left" width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luiz-Cunha-Dev&show_icons=true&count_private=true&hide=stars,issues&theme=transparent" />
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luiz-Cunha-Dev&layout=compact&theme=transparent" />
+<img align="left" width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luiz-Cunha-Dev&show_icons=true&count_private=true&hide=stars,issues&theme=radical" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luiz-Cunha-Dev&layout=compact&theme=radical" />
