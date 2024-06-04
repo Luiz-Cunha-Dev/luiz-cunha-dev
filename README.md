@@ -1,19 +1,19 @@
-# Ola, eu sou o Luiz Cunha!
+# Hello, I'm Luiz Cunha! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizmcunha/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizcunha.dev99@gmail.com)
 [![Discord badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xRURpj57)
 [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+NBjOopN3IQk0ODAx)
 
-## Sobre Mim :wave:
+## About Me :wave:
 
-Olá, tenho 23 anos, sou técnico em mecatrônica formado pela escola técnica da UNICAMP e desenvolvedor web full stack. No momento curso Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP).
+Hello! I'm 24 years old and a full stack web developer passionate about technology. I hold a technical degree in mechatronics from the technical school at UNICAMP and I am currently studying Systems Analysis and Development at the Federal Institute of São Paulo (IFSP).
 
-Eu me tornei desenvolvedor web, após concluir o Curso Técnico Integrado da Driven Education com +1200 horas e +30 projetos práticos com as principais tecnologias Front-end e Back-end do mercado: HTML5, CSS3, Javascript, ReactJS, NodeJS, ExpressJS. PostgreSQL, testes automatizados com Jest e projetos em grupo utilizando Metodologias Ágeis (Scrum), Git, Trello, Slack, Zoom, Pair programming e Code Review.
+My journey as a web developer began after completing the Integrated Technical Course at Driven Education, with over 1200 hours of study and more than 30 practical projects using the main Front-end and Back-end technologies in the market.
 
-Atualmente meu foco é me especializar cada vez mais em desenvolvimento Web, porém também tenho interesse em Mobile e Inteligência Artificial.
+Currently, I am focused on specializing more and more in web development, but I also have a strong interest in Mobile and Artificial Intelligence.
 
-## Tecnologias que estou estudando :books:
+## Technologies :books:
 
 #### Front-end:
 
@@ -34,7 +34,7 @@ Atualmente meu foco é me especializar cada vez mais em desenvolvimento Web, por
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-#### Ferramentas:
+#### Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
@@ -43,7 +43,7 @@ Atualmente meu foco é me especializar cada vez mais em desenvolvimento Web, por
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Estatísticas :rocket:
+## Stats  :rocket:
 
 <img align="left" width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luiz-Cunha-Dev&show_icons=true&count_private=true&hide=stars,issues&theme=radical" />
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luiz-Cunha-Dev&layout=compact&theme=radical" />
