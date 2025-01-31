@@ -7,7 +7,7 @@
 
 ## About Me :wave:
 
-Hello! I'm 24 years old and a full stack web developer passionate about technology. I hold a technical degree in mechatronics from the technical school at UNICAMP and I am currently studying Systems Analysis and Development at the Federal Institute of São Paulo (IFSP).
+Hello! I'm 25 years old and a full stack web developer passionate about technology. I hold a technical degree in mechatronics from the technical school at UNICAMP and I am currently studying Systems Analysis and Development at the Federal Institute of São Paulo (IFSP).
 
 My journey as a web developer began after completing the Integrated Technical Course at Driven Education, with over 1200 hours of study and more than 30 practical projects using the main Front-end and Back-end technologies in the market.
 
